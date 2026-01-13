@@ -36,8 +36,6 @@ breast-cancer-identifiers/
 - Task: Binary classification (Benign vs Malignant)
 - Dataset: Wisconsin Breast Cancer Diagnostic Dataset
 - Notebook: `01-wisconsin-binary.ipynb`
-- Models: Logistic Regression, Random Forest, and others
-- Evaluation: Accuracy, confusion matrix, classification report
 
 ---
 
